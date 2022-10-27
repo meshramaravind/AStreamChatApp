@@ -50,6 +50,8 @@ Dark Theme & Light Theme)
 <img src="https://user-images.githubusercontent.com/25154589/198187651-b32006ce-a7b0-4cbe-9a08-13b6912f37db.png" width="200" />
 
 </p>
+# Credit
+https://youtu.be/GrAwH6Sb834
 
 # Stream Chat
 
