@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AStreamChatApp</string>
+
+    <string name="api_key">2hxbjybw5utu</string>
+    <string name="jwt_token"> hh</string>
+
+    <string name="username">Username</string>
+    <string name="go">GO</string>
+    <string name="chat_app">Stream Chat App</string>
+    <string name="reliable_and_fast">Reliable and Fast</string>
+    <string name="first_name">First Name</string>
+    <string name="search">Search</string>
+    <string name="log_out">Log Out</string>
+    <string name="settings">Settings</string>
+    <string name="groups">Groups</string>
+    <string name="channels">Channels</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="logged_out_successfully">Logged out successfully</string>
+</resources>
